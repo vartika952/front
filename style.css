@@ -10,11 +10,11 @@
 }
 @keyframes changebackground 
 {
-    0%   { background-image: url("../images/taj.jpg");}
-    25%  { background-image: url("../images/Darjeeling.jpg");}
-    50%  { background-image: url("../images/Jaipur.jpg");}
-    75%  { background-image: url("../images/kerela.jpg");}
-    100% { background-image: url("../images/delhi.jpg");}
+    0%   { background-image: url("taj.jpg");}
+    25%  { background-image: url("Darjeeling.jpg");}
+    50%  { background-image: url("Jaipur.jpg");}
+    75%  { background-image: url("kerela.jpg");}
+    100% { background-image: url("delhi.jpg");}
 }
 
   nav {
@@ -28,7 +28,7 @@
   nav .logo {
     width: 30%;
     text-align: center;
-    background-image: url("../images/india.jpg");
+    background-image: url("india.jpg");
     background-size: 100% 100%;
     color: transparent;
     -webkit-background-clip: text;
